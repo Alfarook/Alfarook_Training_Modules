@@ -14,6 +14,7 @@
     - A pull request is used to ask for permission to commit a change onto the main branch. This is good to have your work double-checked by another collaborator to ensure no mistakes are made.
 
 
-![](https://github.com/Alfarook_Training_Modules/MHW.gif)
+![](MHW.gif)
+
 https://www.youtube.com/watch?v=qpzEk7WyYG4&ab_channel=AbAlMamun
 
